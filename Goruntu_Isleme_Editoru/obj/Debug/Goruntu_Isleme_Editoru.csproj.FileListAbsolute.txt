@@ -1,0 +1,55 @@
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\bin\Debug\Goruntu_Isleme_Editoru.exe.config
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\bin\Debug\Goruntu_Isleme_Editoru.exe
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\bin\Debug\Goruntu_Isleme_Editoru.pdb
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.csprojResolveAssemblyReference.cache
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.Form1.resources
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.olcekGirisEkrani.resources
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.Properties.Resources.resources
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.csproj.GenerateResource.Cache
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.exe
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.pdb
+C:\Users\Berkay\Desktop\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\bin\Debug\Goruntu_Isleme_Editoru.exe.config
+C:\Users\Berkay\Desktop\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\bin\Debug\Goruntu_Isleme_Editoru.exe
+C:\Users\Berkay\Desktop\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\bin\Debug\Goruntu_Isleme_Editoru.pdb
+C:\Users\Berkay\Desktop\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.csprojResolveAssemblyReference.cache
+C:\Users\Berkay\Desktop\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.Form1.resources
+C:\Users\Berkay\Desktop\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.olcekGirisEkrani.resources
+C:\Users\Berkay\Desktop\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.Properties.Resources.resources
+C:\Users\Berkay\Desktop\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.csproj.GenerateResource.Cache
+C:\Users\Berkay\Desktop\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.exe
+C:\Users\Berkay\Desktop\Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.pdb
+C:\Users\Berkay\Desktop\Yorum satırı yok\Goruntu_Isleme_Editoru\bin\Debug\Goruntu_Isleme_Editoru.exe.config
+C:\Users\Berkay\Desktop\Yorum satırı yok\Goruntu_Isleme_Editoru\bin\Debug\Goruntu_Isleme_Editoru.exe
+C:\Users\Berkay\Desktop\Yorum satırı yok\Goruntu_Isleme_Editoru\bin\Debug\Goruntu_Isleme_Editoru.pdb
+C:\Users\Berkay\Desktop\Yorum satırı yok\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.csprojResolveAssemblyReference.cache
+C:\Users\Berkay\Desktop\Yorum satırı yok\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.Form1.resources
+C:\Users\Berkay\Desktop\Yorum satırı yok\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.olcekGirisEkrani.resources
+C:\Users\Berkay\Desktop\Yorum satırı yok\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.Properties.Resources.resources
+C:\Users\Berkay\Desktop\Yorum satırı yok\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.csproj.GenerateResource.Cache
+C:\Users\Berkay\Desktop\Yorum satırı yok\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\Yorum satırı yok\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.exe
+C:\Users\Berkay\Desktop\Yorum satırı yok\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.pdb
+C:\Users\Berkay\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\bin\Debug\Goruntu_Isleme_Editoru.exe.config
+C:\Users\Berkay\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\bin\Debug\Goruntu_Isleme_Editoru.exe
+C:\Users\Berkay\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\bin\Debug\Goruntu_Isleme_Editoru.pdb
+C:\Users\Berkay\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.csprojResolveAssemblyReference.cache
+C:\Users\Berkay\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.Form1.resources
+C:\Users\Berkay\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.olcekGirisEkrani.resources
+C:\Users\Berkay\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.Properties.Resources.resources
+C:\Users\Berkay\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.csproj.GenerateResource.Cache
+C:\Users\Berkay\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.exe
+C:\Users\Berkay\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.pdb
+C:\Users\Sena\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\bin\Debug\Goruntu_Isleme_Editoru.exe.config
+C:\Users\Sena\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\bin\Debug\Goruntu_Isleme_Editoru.exe
+C:\Users\Sena\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\bin\Debug\Goruntu_Isleme_Editoru.pdb
+C:\Users\Sena\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.csprojAssemblyReference.cache
+C:\Users\Sena\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.Form1.resources
+C:\Users\Sena\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.olcekGirisEkrani.resources
+C:\Users\Sena\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.Properties.Resources.resources
+C:\Users\Sena\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.csproj.GenerateResource.cache
+C:\Users\Sena\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.exe
+C:\Users\Sena\Desktop\Görüntü İşleme Editörü\Goruntu_Isleme_Editoru\obj\Debug\Goruntu_Isleme_Editoru.pdb

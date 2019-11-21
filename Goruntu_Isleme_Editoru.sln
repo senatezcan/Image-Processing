@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goruntu_Isleme_Editoru", "Goruntu_Isleme_Editoru\Goruntu_Isleme_Editoru.csproj", "{D6A86F48-4826-4A01-A74C-7EEB7F5FE9BC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{4F856F5F-E5C1-400A-9B94-0D1776A1FFED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6A86F48-4826-4A01-A74C-7EEB7F5FE9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A86F48-4826-4A01-A74C-7EEB7F5FE9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A86F48-4826-4A01-A74C-7EEB7F5FE9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A86F48-4826-4A01-A74C-7EEB7F5FE9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F856F5F-E5C1-400A-9B94-0D1776A1FFED}.Debug|Any CPU.ActiveCfg = Debug
+		{4F856F5F-E5C1-400A-9B94-0D1776A1FFED}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6830129C-099A-489C-BB00-0EC966A40940}
+	EndGlobalSection
+EndGlobal
